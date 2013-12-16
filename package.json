@@ -1,0 +1,29 @@
+{
+  "name": "extendscript-stream",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "nbqx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbqx/extendscript-stream.git"
+  },
+  "homepage": "https://github.com/nbqx/extendscript-stream",
+  "keywords": [
+    "adobe",
+    "extendscript",
+    "stream"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "dependencies": {
+    "fakestk": "0.0.1",
+    "through": "~2.3.4"
+  }
+}
